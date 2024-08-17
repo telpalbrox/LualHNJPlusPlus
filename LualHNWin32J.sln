@@ -1,0 +1,13 @@
+Microsoft Visual Studio Solution File, Format Version 1.00
+Project("{66355F20-A65B-11D0-BFB5-00A0C91EBFA0}") = "LualHNWin32J", "LualHNWin32J.vjp", "{92BBBBAB-49C0-11EF-83E9-000C29D6B0ED}"
+EndProject
+Global
+	GlobalSection(LocalDeployment) = postSolution
+		StartupProject = {92BBBBAB-49C0-11EF-83E9-000C29D6B0ED}
+	EndGlobalSection
+	GlobalSection(BuildOrder) = postSolution
+		0 = {92BBBBAB-49C0-11EF-83E9-000C29D6B0ED}
+	EndGlobalSection
+	GlobalSection(DeploymentRoot) = postSolution
+	EndGlobalSection
+EndGlobal
