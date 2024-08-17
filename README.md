@@ -21,4 +21,4 @@ Currently the URL of the proxy server is hardcoded in HNClient.
 
 ![LualHNJPlusPlus item window](media/item-window.png)
 
-![LualHNJPlusPlus demo](media/video-recording.png)
+https://github.com/user-attachments/assets/797bed7c-15d4-4468-a397-905b3317b2d5
